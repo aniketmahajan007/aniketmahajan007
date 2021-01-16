@@ -1,8 +1,8 @@
 
 <h3 align="center"> Hi there 👋, My name is Aniket</h3>
-<h3 align="center">Full Stack Developer | <a href="https://aniketmahajan007.github.io/aniketmahajan.github.io/"><b>My Portfolio</b> </a></h3>
+<h3 align="center">Full Stack Developer | <a target="_blank" href="https://aniketmahajan007.github.io/aniketmahajan.github.io/"><b>My Portfolio</b> </a></h3>
 
-![Profile views](https://gpvc.arturio.dev/aniketmahajan007)  
+![Profile views](https://gpvc.arturio.dev/aniketmahajan007)
 
 **🔭 I’m currently working on Training and placement portal and social network project**<br>
 **🌱 I’m currently learning Spring 5, angular while improving my data structures and algorithm skills**
