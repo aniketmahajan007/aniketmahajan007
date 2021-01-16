@@ -4,8 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/aniketmahajan007)  
 
-**🔭 I’m currently working on Training and placement portal amd social network project**<br>
-**🌱 I’m currently learning Spring 5**
+**🔭 I’m currently working on Training and placement portal and social network project**<br>
+**🌱 I’m currently learning Spring 5, angular while improving my data structures and algorithm skills**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
