@@ -4,7 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/aniketmahajan007)
 
-**🔭 I’m currently working on Training and placement portal and social network project**<br>
+**🔭 Currently Pursuing MCA at Pune University [ Passout: 2022 ], Currently open to work or internship **<br>
+**🔭 I’m also currently working on Training and placement portal and social network project to improve my practical knowledge**<br>
 **🌱 I’m currently learning Spring 5, angular while improving my data structures and algorithm skills**
 <br>
 <br>
