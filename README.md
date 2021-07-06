@@ -25,7 +25,6 @@
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
-<code><a href="https://redux.js.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://spring.io/" target="_blank"><img height="50" src="https://mpng.subpng.com/20180328/ace/kisspng-spring-framework-representational-state-transfer-j-spring-5abb1a637c6711.3394662515222114275096.jpg"></a></code>
