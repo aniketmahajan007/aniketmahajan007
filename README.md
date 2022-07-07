@@ -4,9 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/aniketmahajan007)
 
-**🔭 Currently Pursuing MCA at Pune University [ Passout: 2022 ], Currently open to work or internship**<br>
-**🔭 I’m also currently working on Netflix Clone project on MERN stack and social network project to improve my practical knowledge**<br>
-**🌱 I’m currently learning Spring 5, jenkins while improving my data structures and algorithm skills**
+**🔭 Experienced Full Stack Developer with a demonstrated history of working in mobile and web development.**<br>
+**🔭 Strong engineering professional with a Master Degree in Computer Application.**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
